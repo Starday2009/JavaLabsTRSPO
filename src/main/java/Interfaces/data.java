@@ -1,3 +1,5 @@
+package Interfaces;
+
 public interface data {
     void getDate();
     void getTime();

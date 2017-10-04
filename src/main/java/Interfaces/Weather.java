@@ -1,3 +1,5 @@
+package Interfaces;
+
 public class Weather implements data {
     public void getDate() {
 
